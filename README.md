@@ -14,7 +14,7 @@ By Appi
 
 # Download
 
-- Download here: https://drive.google.com/file/d/11pqXgSZXnuGbGm5hZDomeOUKxGAUz15h/view
+- Download here: https://drive.google.com/file/d/11pqXgSZXnuGbGm5hZDomeOUKxGAUz15h/view?usp=sharing
 
 # Gallery
 
