@@ -1,0 +1,8 @@
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\bin\Release\TDEClient.net.dll
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\bin\Release\TDEClient.net.pdb
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\bin\Release\CitizenFX.Core.dll
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\bin\Release\NativeUI.dll
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\obj\Release\TDEClient.csprojResolveAssemblyReference.cache
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\obj\Release\TDEClient.csproj.CoreCompileInputs.cache
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\obj\Release\TDEClient.net.dll
+C:\Users\racke\RiderProjects\AppiFiveM\TDEClient\obj\Release\TDEClient.net.pdb

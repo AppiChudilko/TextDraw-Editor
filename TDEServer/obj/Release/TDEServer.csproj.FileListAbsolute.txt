@@ -1,0 +1,7 @@
+C:\Users\racke\RiderProjects\AppiFiveM\TDEServer\bin\Release\TDEServer.net.dll
+C:\Users\racke\RiderProjects\AppiFiveM\TDEServer\bin\Release\TDEServer.net.pdb
+C:\Users\racke\RiderProjects\AppiFiveM\TDEServer\bin\Release\CitizenFX.Core.dll
+C:\Users\racke\RiderProjects\AppiFiveM\TDEServer\obj\Release\TDEServer.csprojResolveAssemblyReference.cache
+C:\Users\racke\RiderProjects\AppiFiveM\TDEServer\obj\Release\TDEServer.csproj.CoreCompileInputs.cache
+C:\Users\racke\RiderProjects\AppiFiveM\TDEServer\obj\Release\TDEServer.net.dll
+C:\Users\racke\RiderProjects\AppiFiveM\TDEServer\obj\Release\TDEServer.net.pdb
